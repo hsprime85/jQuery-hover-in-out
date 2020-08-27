@@ -1,0 +1,17 @@
+#container {
+    width: 970px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: #F6F6F6;
+}
+
+h1 {
+    text-align: center;
+    width: 970px;
+    color: #6b6b6b;
+}
+img {
+    height: 300x;
+    width: 300px;
+    margin: 10px;
+}
